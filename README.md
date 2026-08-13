@@ -9,25 +9,22 @@
 </p>
 
 ```
-                           =-====-=======----    yusuf@wakil
-                          ===**++++++++++-----   --------------------------------
-                          +++++==+++++++= ::--   OS: Windows / macOS / Linux
-         %##**+           ==+=++******++++++*+   Uptime: 29 years, 6 months, 3 days
-       %#####***#         ++**##=###****+++***   Host: Remote
- *++    ##%#%%%#*###*#          ==               Kernel: Senior Systems Administrator
-  #######%##%%%##%##*+#         =                IDE: Caffeine & Diet Cherry Coke
-     %%##%###%%%%####***        -                
-              %%%%%##***#      +=                Languages.Programming: Python, PowerShell, Bash
-              %%%%%##**#**     =:                Languages.Real: English
-               %%%%%#####**    =-                
-                  %%%######    =-                Hobbies: Homelab, Comics, Video Games
-                   %%%##**#    +=                Sports: Basketball 🏀, Baseball ⚾, Football 🏈, Soccer ⚽
-                     %%%%#*    +=                Teams: Arsenal ⚽, Warriors 🏀, Nationals ⚾, Commanders 🏈, Alabama 🏈
-                      %%%%#*   =-                
-                      %%%%###* =-                GitHub: Repos: 11   Followers: 1   Stars: 0
-                      #%%#%%###*+                
-                       #%%%%%%#**                
-                            ###+                 
+                    -=+=======----  yusuf@wakil
+                   +++*=++++++-:::  ----------------------------
+       %#*         =++=++**+++=+++  OS: Windows / macOS / Linux
+     %####*#       ++**++#****++**  Uptime: 29y 6m 3d
+#+*#  # #%%####*#      +=           Host: Remote
+  ########%%%##**      =-           Kernel: Sr. Systems Administrator
+      #%%#%%%###**     =-           IDE: Caffeine & Cherry Coke
+          %%%%#****    -:
+           %%%%#####   -:           Lang.Programming: Python, PowerShell, Bash
+              %%####   =-           Lang.Real: English
+               %%%#*   +=
+                %%%#*  --           Hobbies: Homelab, Comics, Games
+                #%%%## ==           Sports: Basketball 🏀 Baseball ⚾
+                 %%%%%#*                    Football 🏈 Soccer ⚽
+                    ###*            Teams: Arsenal, Warriors, Nationals,
+                                            Commanders, Alabama
 ```
 
 ---
