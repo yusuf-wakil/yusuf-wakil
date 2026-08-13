@@ -8,36 +8,8 @@
 <img src="https://komarev.com/ghpvc/?username=yusuf-wakil&color=00FF9C&style=flat" alt="Profile views" />
 </p>
 
-```
-                    -=+=======----  yusuf@wakil
-                   +++*=++++++-:::  ----------------------------
-       %#*         =++=++**+++=+++  OS: Windows / macOS / Linux
-     %####*#       ++**++#****++**  Uptime: 29y 6m 3d
-#+*#  # #%%####*#      +=           Host: Remote
-  ########%%%##**      =-           Kernel: Sr. Systems Administrator
-      #%%#%%%###**     =-           IDE: Caffeine & Cherry Coke
-          %%%%#****    -:
-           %%%%#####   -:           Lang.Programming: Python, PowerShell, Bash
-              %%####   =-           Lang.Real: English
-               %%%#*   +=
-                %%%#*  --           Hobbies: Homelab, Comics, Games
-                #%%%## ==           Sports: Basketball 🏀 Baseball ⚾
-                 %%%%%#*                    Football 🏈 Soccer ⚽
-                    ###*            Teams: Arsenal, Warriors, Nationals,
-                                            Commanders, Alabama
-```
-
----
-
-### Stack
-
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Entra-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<p align="center">
+<img src="https://raw.githubusercontent.com/yusuf-wakil/yusuf-wakil/main/neofetch-final_2.png" alt="Neofetch" />
 </p>
 
 ---
