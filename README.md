@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=yusuf-wakil&color=00FF9C&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
 <img src="https://raw.githubusercontent.com/yusuf-wakil/yusuf-wakil/main/neofetch-final_2.png" alt="Neofetch" />
 </p>
 
