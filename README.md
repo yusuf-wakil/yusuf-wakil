@@ -27,7 +27,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yusuf-wakil&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-wakil&theme=react&hide_border=true" alt="Streak Stats" height="165"/>
+<img src="https://streak-stats.demolab.com?user=yusuf-wakil&theme=react&hide_border=true" alt="Streak Stats" height="165"/>
 </p>
 
 <p align="center">
