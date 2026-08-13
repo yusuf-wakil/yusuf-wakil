@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yusuf 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Systems+Administrator;AWS+%2B+Kubernetes+%2B+Splunk;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Senior+Systems+Administrator;AWS+%2B+AI+%2B+Engineering+%2B+Automation;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
