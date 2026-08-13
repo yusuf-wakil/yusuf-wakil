@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/yusuf-wakil/yusuf-wakil/main/neofetch-final.png" alt="Neofetch" />
+<img src="https://raw.githubusercontent.com/yusuf-wakil/yusuf-wakil/main/neofetch-final_3.png" alt="Neofetch" />
 </p>
 
 ---
