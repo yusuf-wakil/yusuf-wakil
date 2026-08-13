@@ -8,37 +8,27 @@
 <img src="https://komarev.com/ghpvc/?username=yusuf-wakil&color=00FF9C&style=flat" alt="Profile views" />
 </p>
 
-<pre align="center">
-I*{rr{?[te7e7nCypP&KKUkG&&EP&&4SSqqqg4EVm3qmt]onuaLz*7gj3f2nnTotnTJLuu
-srsI!?[tezuLz7zzLf5mqhdG&Ak&UA&8XhghSVb4hy53JuLnLoo[j3gwqhh#oaa11LzzzL
-{}!111teteLTTLt!*cxr!onuLnJw3Fqmmdd4ESV4EVEdhJ75p3yy665fw1aLjoLnzzLLuT
-to7Ljoeoet[[[?*rr}aL#Ja*11![aaooooozuTJw3Fpp2C#5wywuz11zr1l>))vxx%l}?1
-u#TnTuza[]]!I**Ieunu!);r!)%c!njjLjzeet1!?I???]?[?*sc%))/*dn|\>i%%clcl{
-nnCne1][[!I}?17jLj7er^_;''<{>}Tj!}l><<%*11[]!!!????I}?]}[hnxlrrssrlrss
-ez]jCo]!??]ajLz7ea11[]l;.  `"{r+/\vvc):-^\xl{II*}I}*sll%{TJe?I?!]?}}}}
-1[?srv>r?[7oteea[!?!]{i=,,+)l\':")ir?}%; .',^=/,'';++'.;i*7a11[?I![[!?
-[!??*<";/<xrl%xv>xc))^;^=+/>+',;+/|x}!s>\|/)<"/||\i%%%%x]6jI?!1at]I?!]
-?!1to7e*v|;=/")=,+)\<)"^^'-';^=+///|\vr{ewy53CnL7zoat11!jOf?!??!1ee1!?
-a7eo[1t[11!!I}r))||)<i%v^``_',^/||)>>\c!rc*uw352w#Loeat[[JL!!!!!!![aoe
-eao1[[taeo7jn7?s*17LnnTC#l-___';=/|\v%>sri)rozuTy253wJn7z5jt1tt111[[1t
-t!tate77oz7a?{Itzunujoo7}+.-:,'':+)>v{lvc)>)1nz77jnJwy3CTEyuLz7eeeeeee
-tteo7777a[??[7Luuuza!I}Ix_.._;=^_;/|)xrvivc{}LCJTuz7zjnu2kpwwCJTLzoeaa
-eoz7oa[?}!ejuuujza?{{sss*%_ _/:'--';+)))>%%xs{[zLTJ#nLzefZwLTJCwwwC#nL
-ot1]?}[eazuuLzzo!{{rrrrsr{%xI!i'_'^/|\<\\>\\>vxz7ee7LnTLugTjjzjLnT#JCC
-]]!!1Tynjnjzzo[*}*{slrsrs*[zjttv:_:,^+|<)i<^=|<LwJnj7eetyY3nnnuLjzzjjL
-1[1jC#jLLjeot}}?}}{r{{r{I}!1aaej]=`-:^+|))xv\"\C5yfwCJn7n3nozLunTnnuLL
-t7T#nLnjze[?}??I?*s*{*I}*s*!1]][oe%,`_;+/|>xx<*y2232wCwTeTfuLjzzzLunTT
-nJuLuj7e]I}}*??!}**}I}sccl1]}oot1tot%`_,=//<%%oCJfy233Cu1yC#nTnLLLunnT
-#z?*?e7}I}{{{}!Is*{{ls!zn15pS4jjJCTLu{__';;;|xc1oTCCww3fo2yfwwJJujzzju
-[T{<ir5#jjn#CJ#TueetLpSXdhpXOOhwFgqqppI`-''',)v%}[1a7z7ejh3JJwCCCJJuzo
-hhF5qhhVGbZPkOkYZE4VVgX44Pbb&ZE4VhhVghh)`'::,;|)%{[o1!!?ChzeznJCC#JTJ#
-Sm6pppFmVSmqgVVddEGGE4hqgSqmd4dPbXhhqShI`_-_:;/"\)cte1[tJqe??!t7jjT##C
-bZGX4VSSSEqVYGGXZkOkObhddgpmSh44XEFw3pSu`--_;=^^=|<ljf#tjJt1]!?I?!1zLu
-5225F53TyEwe5Zk4X4hPbGgEZOYZbbOYbXEm2JCn|`_,^=;,;=^+)tJTtChp#jn#aot[!]
-44gp53yLTJn7oCpqg4XOkXPX4E4EFSOOGbkbXpF3J^'/=,_.`,^:'+%!rLdXGhgV6#mXPh
-k&&OOAObPESqmS4XGkA&AOAkg4VmFqEhSVVg!vr{?{v=|<*x^-```|v)rfgPESqFVOUKHD
-1ngA&8AOAOkOA8&YPG4E4E44XEgGbb4CCgV5Cmgp565evx?eze>/''v1Jf5gG7wgSOK&&U
-</pre>
+```ansi
+                           [38;5;189m=[0m[38;5;195m-[0m[38;5;188m====[0m[38;5;195m-[0m[38;5;189m=[0m[38;5;188m===[0m[38;5;189m=[0m[38;5;188m==[0m[38;5;231m-[0m[38;5;195m--[0m[38;5;231m-[0m    [1;38;5;75myusuf@wakil[0m
+                          [38;5;188m===**++++++++++[0m[38;5;195m----[0m[38;5;231m-[0m   [38;5;244m--------------------------------[0m
+                          [38;5;188m+++++[0m[38;5;189m==+[0m[38;5;152m+[0m[38;5;188m+[0m[38;5;152m+[0m[38;5;188m+[0m[38;5;152m+[0m[38;5;188m+=[0m [38;5;231m::-[0m[38;5;195m-[0m   [1;38;5;209mOS:[0m Windows / macOS / Linux
+         [38;5;246m%[0m[38;5;145m##[0m[38;5;187m*[0m[38;5;188m*+[0m           [38;5;188m==+=++[0m[38;5;152m*[0m[38;5;188m*****++++++*+[0m   [1;38;5;209mUptime:[0m 29 years, 6 months, 3 days
+       [38;5;145m%#####[0m[38;5;181m*[0m[38;5;145m*[0m[38;5;146m*[0m[38;5;145m#[0m         [38;5;188m++**[0m[38;5;145m##[0m[38;5;224m=[0m[38;5;145m##[0m[38;5;181m#**[0m[38;5;182m*[0m[38;5;188m*+++***[0m   [1;38;5;209mHost:[0m Remote
+ [38;5;188m*++[0m    [38;5;145m##%#%%%#[0m[38;5;146m*[0m[38;5;145m###[0m[38;5;146m*[0m[38;5;145m#[0m          [38;5;188m=[0m[38;5;224m=[0m               [1;38;5;209mKernel:[0m Senior Systems Administrator
+  [38;5;181m#[0m[38;5;145m######%##%%%##%##[0m[38;5;188m*+[0m[38;5;145m#[0m         [38;5;188m=[0m                [1;38;5;209mIDE:[0m Caffeine & Diet Cherry Coke
+     [38;5;145m%%##%###%%%%####[0m[38;5;146m*[0m[38;5;188m*[0m[38;5;146m*[0m        [38;5;230m-[0m                
+              [38;5;145m%%%%%##[0m[38;5;146m*[0m[38;5;188m*[0m[38;5;152m*[0m[38;5;145m#[0m      [38;5;188m+=[0m                [1;38;5;209mLanguages.Programming:[0m Python, PowerShell, Bash
+              [38;5;145m%%%%%##[0m[38;5;152m*[0m[38;5;146m*[0m[38;5;145m#[0m[38;5;188m**[0m     [38;5;188m=[0m[38;5;231m:[0m                [1;38;5;209mLanguages.Real:[0m English
+               [38;5;145m%%%%%#####[0m[38;5;188m*[0m[38;5;145m*[0m    [38;5;188m=[0m[38;5;230m-[0m                
+                  [38;5;145m%%%######[0m    [38;5;187m=[0m[38;5;230m-[0m                [1;38;5;209mHobbies:[0m Homelab, Comics, Video Games
+                   [38;5;145m%%%##[0m[38;5;146m**[0m[38;5;247m#[0m    [38;5;188m+=[0m                [1;38;5;209mSports:[0m Basketball 🏀, Baseball ⚾, Football 🏈, Soccer ⚽
+                     [38;5;145m%%%%#[0m[38;5;146m*[0m    [38;5;188m+=[0m                [1;38;5;209mTeams:[0m Arsenal ⚽, Warriors 🏀, Nationals ⚾, Commanders 🏈, Alabama 🏈
+                      [38;5;145m%%%%#*[0m   [38;5;188m=[0m[38;5;231m-[0m                
+                      [38;5;145m%%%%###[0m[38;5;249m*[0m [38;5;188m=[0m[38;5;224m-[0m                [1;38;5;209mGitHub:[0m Repos: 11   Followers: 1   Stars: 0
+                      [38;5;145m#%%#%%###[0m[38;5;187m*+[0m                
+                       [38;5;247m#[0m[38;5;145m%%%%%%#[0m[38;5;188m*[0m[38;5;152m*[0m                
+                            [38;5;145m###[0m[38;5;188m+[0m                 
+```
 
 ---
 
